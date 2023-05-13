@@ -1,7 +1,7 @@
 # oop-temporary
 turdee l neelee
 
-point.h - tseg hadgaldag class
+point.h - tseg hadgaldag class \n
 shape.h - durs
 shape2d.h - 2d durs
 shapes.h - hawtgain dursuud ene dotor baigaa
